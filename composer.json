@@ -1,22 +1,25 @@
 {
-    "name": "laravel-zero/laravel-zero",
-    "description": "The Laravel Zero Framework.",
-    "keywords": ["framework", "laravel", "laravel zero", "console", "cli"],
-    "homepage": "https://laravel-zero.com",
+    "name": "sajadtorkamani/quote-cli",
+    "description": "A CLI that prints inspiring quotes from my Notion database.",
+    "keywords": [
+        "quotes",
+        "cli"
+    ],
+    "homepage": "https://github.com/sajadtorkamani/quote-cli",
     "type": "project",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/laravel-zero/laravel-zero/issues",
-        "source": "https://github.com/laravel-zero/laravel-zero"
+        "issues": "https://github.com/sajadtorkamani/quote-cli/issues",
+        "source": "https://github.com/sajadtorkamani/quote-cli/source",
     },
     "authors": [
         {
-            "name": "Nuno Maduro",
-            "email": "enunomaduro@gmail.com"
+            "name": "Sajad Torkamani",
+            "email": "sajadtorkamani1@gmail.com"
         }
     ],
     "require": {
-        "php": "^7.3|^8.0",
+        "php": "^8.0",
         "laravel-zero/framework": "^8.8"
     },
     "require-dev": {
