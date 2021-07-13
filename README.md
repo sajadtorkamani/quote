@@ -11,7 +11,7 @@ my personal use.
     ```
 - Test the commands
   ```shell
-  ./quote-cli <command>
+  ./quote <command>
   ```
 - This project uses Laravel Zero so check the [docs](https://laravel-zero.com/docs/introduction) for
   more info.
@@ -19,17 +19,17 @@ my personal use.
 ## Publish updated version
 - Create new standalone app.
   ```shell
-  php quote-cli app:build quote
+  php quote app:build quote
   ```
 - Push changes to GitHub
-- [Draft new release](https://github.com/sajadtorkamani/quote-cli/releases/new)
+- [Draft new release](https://github.com/sajadtorkamani/quote/releases/new)
     - This will automatically publish an updated version on Packagist.
 
 ## How to install as a composer package
 
 - Install composer package
   ```shell
-  composer global require sajadtorkamani/quote-cli
+  composer global require sajadtorkamani/quote
   ```
 - Run
   ```shell

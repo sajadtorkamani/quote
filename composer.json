@@ -1,16 +1,16 @@
 {
-    "name": "sajadtorkamani/quote-cli",
+    "name": "sajadtorkamani/quote",
     "description": "A CLI that prints inspiring quotes from my Notion database.",
     "keywords": [
         "quotes",
         "cli"
     ],
-    "homepage": "https://github.com/sajadtorkamani/quote-cli",
+    "homepage": "https://github.com/sajadtorkamani/quote",
     "type": "project",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/sajadtorkamani/quote-cli/issues",
-        "source": "https://github.com/sajadtorkamani/quote-cli/source"
+        "issues": "https://github.com/sajadtorkamani/quote/issues",
+        "source": "https://github.com/sajadtorkamani/quote/source"
     },
     "authors": [
         {
@@ -45,5 +45,5 @@
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "bin": ["quote-cli"]
+    "bin": ["quote"]
 }
