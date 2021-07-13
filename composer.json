@@ -10,7 +10,7 @@
     "license": "MIT",
     "support": {
         "issues": "https://github.com/sajadtorkamani/quote-cli/issues",
-        "source": "https://github.com/sajadtorkamani/quote-cli/source",
+        "source": "https://github.com/sajadtorkamani/quote-cli/source"
     },
     "authors": [
         {
@@ -20,6 +20,8 @@
     ],
     "require": {
         "php": "^8.0",
+        "guzzlehttp/guzzle": "^7.3",
+        "illuminate/http": "^8.50",
         "laravel-zero/framework": "^8.8"
     },
     "require-dev": {
